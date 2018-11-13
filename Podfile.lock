@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.7.3)
+  - SwiftyJSON (4.2.0)
+  - VisionLab (0.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - SwiftyJSON
+  - VisionLab (from `https://github.com/cocoa-ai/VisionLab`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  VisionLab:
+    :git: https://github.com/cocoa-ai/VisionLab
+
+CHECKOUT OPTIONS:
+  VisionLab:
+    :commit: c865a12b66ededa0bd76c23c456a172a0dd7aba4
+    :git: https://github.com/cocoa-ai/VisionLab
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  VisionLab: 6fc2dcc1f731dd21891c7bd9878a93c0526bfc91
+
+PODFILE CHECKSUM: 20313126635d7bbdcec78a277cdb320cf8afdc58
+
+COCOAPODS: 1.5.3
